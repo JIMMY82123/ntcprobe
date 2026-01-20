@@ -35,8 +35,22 @@ ntcprobe/
 │   └── style.css      # Stylesheet
 ├── js/
 │   └── main.js        # JavaScript functionality
-└── assets/            # Images and other assets
+├── assets/            # Images and other assets
+│   ├── images/        # Product and factory images
+│   ├── icons/         # Icon files
+│   └── documents/     # PDF catalogs and datasheets
+├── .gitignore         # Git ignore rules
+└── README.md          # Project documentation
 ```
+
+## Website Features
+
+- **Professional Navigation**: Dropdown menus for Products and Applications
+- **Product Showcase**: Filterable product grid with detailed specifications
+- **Application Areas**: Industry-specific use cases (Home Appliances, Automotive, HVAC, Medical)
+- **Technical Support**: Download resources, CAD drawings, and FAQ section
+- **Responsive Design**: Mobile-friendly layout for all devices
+- **Contact Form**: Easy inquiry and quote request system
 
 ## License
 
