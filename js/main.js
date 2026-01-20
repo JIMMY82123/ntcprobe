@@ -79,7 +79,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
                 // Filter products
                 productCards.forEach(card => {
-                    if (category === 'all' || card.getAttribute('data-category') === category) {
+                    if (card.getAttribute('data-category') === category) {
                         card.style.display = 'block';
                         setTimeout(() => {
                             card.style.opacity = '1';
