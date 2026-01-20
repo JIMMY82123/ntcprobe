@@ -1,4 +1,6 @@
-# Temperature Sensor Factory Website
+# ntcprobe
+
+NTC Temperature Sensor Probes - Epoxy Coated Thermistors for Home Appliances, Automotive Aftermarket, and HVAC Applications. Official product showcase site.
 
 A modern, professional website for a temperature sensor manufacturing company.
 
